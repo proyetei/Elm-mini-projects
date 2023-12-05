@@ -1,0 +1,7 @@
+{
+    "elm.makeCommand": ["elm", "make"],
+    "elm.formatCommand": ["elm", "format"],
+    "elm.testCommand": ["elm", "test"],
+    "elm.useLsp": true
+  }
+  
